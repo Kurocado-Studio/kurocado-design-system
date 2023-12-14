@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="kds" name="Kurocado Design System"
+                  start-page="Kurocado-Design-System-PRD.md">
+
+    <toc-element topic="Kurocado-Design-System-PRD.md"/>
+    <toc-element topic="kurocado-design-system-rfc.md"/>
+    <toc-element topic="RFC.md">
+        <toc-element topic="RFC-2023-12-01-CSSClient.md"/>
+        <toc-element topic="RFC-2023-12-01-AnimationClient.md"/>
+    </toc-element>
+    <toc-element topic="Decisions.md">
+        <toc-element toc-title="Turborepo" topic="002-TurboRepo.md"/>
+        <toc-element topic="TeamCity-for-CI-CD.md">
+        </toc-element>
+        <toc-element topic="001-Tailwind-CSS.md"/>
+        <toc-element topic="Domain-Driven-Design.md"/>
+    </toc-element>
+    <toc-element topic="Roadmaps.md">
+        <toc-element topic="2024-Roadmap.md"/>
+    </toc-element>
+</instance-profile>

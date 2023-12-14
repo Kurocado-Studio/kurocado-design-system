@@ -1,0 +1,3 @@
+# About Kurocado Studio Core
+
+Start typing here...

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ksc"
+                  name="Kurocado Studio Core"
+                  start-page="kurocado-studio-core.md" is-library="true">
+
+    <toc-element topic="kurocado-studio-core.md"/>
+    <toc-element topic="TEMPLATE-Decisions-Document.md"/>
+</instance-profile>

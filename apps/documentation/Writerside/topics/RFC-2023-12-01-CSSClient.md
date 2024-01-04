@@ -1,7 +1,7 @@
 # RFC 2023-12-01 CSSClient
 
-| Status | Proposed |
-| :----- | :------- |
+| Status | Accepted |
+| :----- |:---------|
 
 ## Background
 

@@ -8,6 +8,7 @@
     <toc-element topic="Kurocado-Design-System-PRD.md"/>
     <toc-element topic="kurocado-design-system-rfc.md"/>
     <toc-element topic="RFC.md">
+        <toc-element topic="RFC-2023-12-01-UIPrimitivesClient.md"/>
         <toc-element topic="RFC-2023-12-01-CSSClient.md"/>
         <toc-element topic="RFC-2023-12-01-AnimationClient.md"/>
     </toc-element>
@@ -17,6 +18,7 @@
         </toc-element>
         <toc-element topic="001-Tailwind-CSS.md"/>
         <toc-element topic="002-Framer-Motion.md"/>
+        <toc-element topic="Radix-for-unstyled-UI-primitives.md"/>
         <toc-element topic="Domain-Driven-Design.md"/>
     </toc-element>
     <toc-element topic="Roadmaps.md">
